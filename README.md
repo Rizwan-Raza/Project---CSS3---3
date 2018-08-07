@@ -7,7 +7,7 @@ Assigned by Mr. Azam while studying Web Technologies at ProLog Academy.
 
 * HTML5
 * CSS3 
-> * [font-awesome](https://fontawesome.com/)
+  * [font-awesome](https://fontawesome.com/)
 ### Resources Used
 
 * Images exists in [./images](https://github.com/Rizwan-Raza/Project-CSS3-3/tree/master/images) folder.
